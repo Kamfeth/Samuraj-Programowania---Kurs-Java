@@ -8,7 +8,8 @@ Zadanie 1: Utwórz dwie zmienne int o nazwach z1 i z2, o wartościach odpowiedni
 Za znakami = wydrukuj wartości obliczeń.
 
 Zadanie 2: Utwórz zmienną typu char o nazwie letter i wartości a. 
-Następnie wykonaj inkrementację i wydrukuj na ekranie wartość tej zmiennej. Jaka jest teraz jej wartość? Spodziewałeś się takiej odpowiedzi? Poeksperymentuj z tą zmienną.
+Następnie wykonaj inkrementację i wydrukuj na ekranie wartość tej zmiennej. Jaka jest teraz jej wartość? 
+Spodziewałeś się takiej odpowiedzi? Poeksperymentuj z tą zmienną.
 
 Zadanie 3: Utwórz zmienną typu double o wartości 10.123456789 i wykonaj na niej 10 inkrementacji. 
 Jaka jest teraz wartość zmiennej? Dlaczego tak się dzieje? Jak nazywamy takie zjawisko?
