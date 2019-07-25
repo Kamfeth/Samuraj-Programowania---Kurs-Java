@@ -1,0 +1,22 @@
+Zadanie 1: Przy pomocy pętli wydrukuj na ekranie coś takiego:
+
+*
+**
+***
+****
+*****
+******
+*******
+********
+*********
+**********
+
+Zadanie 2: Utwórz i wydrukuj na ekranie taką tablicę używając poleceń new int oraz pętli.
+
+11111
+111
+11111111
+
+Zadanie 3: Wydrukuj litery alfabetu od a do z przy pomocy pętli.
+
+Zadanie 4: Utwórz 10-elementową tablicę i przypisz jej komórkom wartości 11, 22 itd. do 110, a następnie wydrukuj.
