@@ -1,4 +1,4 @@
-Kurs Java autorstwa właściciela kanału Samuraj Programowania
+Kurs Java autorstwa właściciela kanału Samuraj Programowania.
 Link do playlisty kursu na YouTube: https://www.youtube.com/playlist?list=PLTs20Q-BTEMMJHb4GWFT34PAWxYyzndIY
 
 W tym repozytorium umieszczam wszystkie rozwiązane przeze mnie zadania, które pojawiły się w trakcie realizacji tego kursu.
