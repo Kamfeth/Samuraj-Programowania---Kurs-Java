@@ -1,0 +1,8 @@
+Pytanie #1: Jaka jest teraz wartość zmiennej?
+Odpowiedź #1: Wartość zmiennej number jest równa 20.123456789000002.
+
+Pytanie #2: Dlaczego tak się dzieje?
+Odpowiedź #2: Ponieważ liczby zmiennoprzecinkowe nie posiadają dokładnej reprezentacji w systemie binarnym.
+
+Pytanie #3: Jak nazywamy takie zjawisko?
+Odpowiedź #3: Zjawisko to nazywamy błędem zaokrąglenia.
