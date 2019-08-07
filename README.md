@@ -1,5 +1,7 @@
 # Samuraj Programowania - Kurs Java
 
+![alt text](https://i.ytimg.com/vi/wa8fZP6IBuU/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCF0jYCFeC_B9pouVZjwzIWYWC9og)
+
 Kurs Java autorstwa właściciela kanału Samuraj Programowania.
 Link do playlisty kursu na YouTube: https://www.youtube.com/playlist?list=PLTs20Q-BTEMMJHb4GWFT34PAWxYyzndIY
 
