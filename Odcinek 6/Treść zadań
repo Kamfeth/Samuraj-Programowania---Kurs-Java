@@ -1,9 +1,23 @@
-Zadanie 1: Napisz dowolną klasę abstrakcyjną, która będzie implementowała 2 interfejsy i będzie po niej dziedziczyła jedną klasa. Niech klasy i interfejsy nazywają się Silnik, Samochód, Skrzynia biegów i Osobówka. W zadaniu chodzi o to, aby zależności między klasami były sensowne.
+Zadanie 1: Napisz dowolną klasę abstrakcyjną, która będzie implementowała 2 interfejsy i będzie po niej dziedziczyła jedną klasa. 
+Niech klasy i interfejsy nazywają się Silnik, Samochód, Skrzynia biegów i Osobówka. 
+W zadaniu chodzi o to, aby zależności między klasami były sensowne.
 
-Zadanie 2: Stwórz klasę Produkt zawierającą statyczne pole id, które będzie rosło wraz z utworzeniem każdego nowego produktu (czyli obiektu danej klasy), a także finalne pole nazwa produktu i metodę uruchom drukującą tekst i identyfikator. Następnie w klasie fabryka stwórz metody pozwalające na stworzenie stu produktów(użyj tablicy). Później wyrywkowo kilka przetestuj wywołując ich metodę działaj. Ważne aby metoda działaj zwracała też unikalny numer id.
+Zadanie 2: Stwórz klasę Produkt zawierającą statyczne pole id, które będzie rosło wraz z utworzeniem każdego nowego produktu 
+(czyli obiektu danej klasy), a także finalne pole nazwa produktu i metodę uruchom drukującą tekst i identyfikator. 
+Następnie w klasie fabryka stwórz metody pozwalające na stworzenie stu produktów(użyj tablicy). 
+Później wyrywkowo kilka przetestuj wywołując ich metodę działaj. Ważne aby metoda działaj zwracała też unikalny numer id.
 
-Zadanie 3: Stwórz klasę punkt, a także klasę punkt 3d, która będzie po niej dziedziczyć. W klasie punkt zdefiniuj int x, int y, gettery i settery, w klasy punkt3d int z, również getter i setter, a także konstruktory przyjmujące 3 parametry w klasie punkt 3d i 2 parametry w klasie punkt, oraz konstruktor domyślny w klasie Punkt. A także konstruktor przypisujący parametry klasie Punkt, dzięki wywołaniu super, oraz przypisujący punkt z w klasie Punkt3D. Następnie w klasie układ współrzędnych stwórz kilka takich obiektów typu punkt, dodając im za każdym razem inne parametry. Zrób to w pętli, użyj tablicy. Następnie ładnie wydrukuj wypisując skąd pochodzi dany punkt(używając metody toString bezpośrednio na obiekcie Punkt3D), a także jego koordynaty.
+Zadanie 3: Stwórz klasę punkt, a także klasę punkt 3d, która będzie po niej dziedziczyć. 
+W klasie punkt zdefiniuj int x, int y, gettery i settery, w klasy punkt3d int z, również getter i setter, 
+a także konstruktory przyjmujące 3 parametry w klasie punkt 3d i 2 parametry w klasie punkt, 
+oraz konstruktor domyślny w klasie Punkt. 
+A także konstruktor przypisujący parametry klasie Punkt, dzięki wywołaniu super, oraz przypisujący punkt z w klasie Punkt3D. 
+Następnie w klasie układ współrzędnych stwórz kilka takich obiektów typu punkt, dodając im za każdym razem inne parametry. 
+Zrób to w pętli, użyj tablicy. Następnie ładnie wydrukuj wypisując skąd pochodzi dany punkt 
+(używając metody toString bezpośrednio na obiekcie Punkt3D), a także jego koordynaty.
 
-Zadanie 4: Utwórz klasę Matematyka zawierającą same metody statyczne. Utwórz metody na dodawanie, odejmowanie, mnożenie i dzielenie. Następnie w klasie main wywołaj je dla różnych parametrów.
+Zadanie 4: Utwórz klasę Matematyka zawierającą same metody statyczne. 
+Utwórz metody na dodawanie, odejmowanie, mnożenie i dzielenie. Następnie w klasie main wywołaj je dla różnych parametrów.
 
-Zadanie 5: Utwórz klasę Drzewo i oznacz jej konstruktor jako prywatny. Następnie spróbuj utworzyć jej obiekt w nowej klasie. W jaki sposób można rozwiązać to zagadnienie? Podpowiedź, w klasie drzewo możesz utworzyć sobie pola i metody pomocnicze.
+Zadanie 5: Utwórz klasę Drzewo i oznacz jej konstruktor jako prywatny. Następnie spróbuj utworzyć jej obiekt w nowej klasie. 
+W jaki sposób można rozwiązać to zagadnienie? Podpowiedź, w klasie drzewo możesz utworzyć sobie pola i metody pomocnicze.
