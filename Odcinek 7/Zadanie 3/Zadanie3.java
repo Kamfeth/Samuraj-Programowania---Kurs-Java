@@ -1,4 +1,4 @@
-package zad3;
+package Zad3;
 
 import zad3.blocks.Block;
 import zad3.blocks.red.RedBlock;
