@@ -1,9 +1,19 @@
-Zadanie 1: Utwórz pakiety Zad1, Zad2, aż do Zad5. Od tej pory w ten sposób będziemy organizowali kod. Następnie w pierwszym pakiecie utwórz Klasę Main i metodę getText. W tej metodzie pobierz od użytkownika liczbę, ale użyj metody next(), a nie nextInt(), a następnie zrzutuj pobrany tekst na typ int i wydukuj. Co się stanie, kiedy użytkownik wpisze tekst zamiast cyfry?
+Zadanie 1: Utwórz pakiety Zad1, Zad2, aż do Zad5. Od tej pory w ten sposób będziemy organizowali kod. 
+Następnie w pierwszym pakiecie utwórz Klasę Main i metodę getText. W tej metodzie pobierz od użytkownika liczbę, 
+ale użyj metody next(), a nie nextInt(), a następnie zrzutuj pobrany tekst na typ int i wydukuj. 
+Co się stanie, kiedy użytkownik wpisze tekst zamiast cyfry?
 
-Zadanie 2:  W pakiecie Zad2 utwórz klasę Main a następnie napisz w niej metodę obliczającą silnię (silnia to n!, czyli iloczyn wszystkich liczb mniejszych od n, czyli n*n-1*-n-2*…*1 możesz zacząć implementację od 1, bądź od n) i wypisz wynik w metodzie main.
+Zadanie 2:  W pakiecie Zad2 utwórz klasę Main a następnie napisz w niej metodę obliczającą silnię 
+(silnia to n!, czyli iloczyn wszystkich liczb mniejszych od n, czyli n*n-1*-n-2*…*1 możesz zacząć implementację od 1, bądź od n) 
+i wypisz wynik w metodzie main.
 
-Zadanie 3:  W pakiecie Zad3 utwórz kolejny pakiet o nazwie klocki, a w nim kolejne o nazwie czerwony i zielony. W każdym z tych pakietów utwórz klasę i metodę z krótką informacją o tym kim jest, a następnie wywołaj te wszystkie klasy i metody w klasie Main, znajdującej się w pakiecie.
+Zadanie 3:  W pakiecie Zad3 utwórz kolejny pakiet o nazwie klocki, a w nim kolejne o nazwie czerwony i zielony. 
+W każdym z tych pakietów utwórz klasę i metodę z krótką informacją o tym kim jest, 
+a następnie wywołaj te wszystkie klasy i metody w klasie Main, znajdującej się w pakiecie.
 
-Zadanie 4:  W pakiecie Zad4 utwórz interfejs o nazwie iKlik a w nim dwie metody o nazwie onRightButtonClick i onLeftButtonClick. Następnie użyj konstrukcji anonimowej klasy wewnętrznej, aby zaimplementować tam informację o tym, że został kliknięty lewy lub prawy klawisz.
+Zadanie 4:  W pakiecie Zad4 utwórz interfejs o nazwie iKlik a w nim dwie metody o nazwie onRightButtonClick i onLeftButtonClick. 
+Następnie użyj konstrukcji anonimowej klasy wewnętrznej, aby zaimplementować tam informację o tym, 
+że został kliknięty lewy lub prawy klawisz.
 
-Zadanie 5:  W pakiecie Zad5 utwórz metodę count9, która będzie przyjmowała obiekt tablicy i zwracała nam ilość wystąpień cyfry 9. Następnie wydrukuj wynik w klasie Main.
+Zadanie 5:  W pakiecie Zad5 utwórz metodę count9, która będzie przyjmowała obiekt tablicy i zwracała nam ilość wystąpień cyfry 9. 
+Następnie wydrukuj wynik w klasie Main.
