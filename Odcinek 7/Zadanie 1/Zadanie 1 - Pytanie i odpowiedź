@@ -1,0 +1,2 @@
+Pytanie: Co się stanie, kiedy użytkownik wpisze tekst zamiast cyfry?
+Odpowiedź: Program wygeneruje w takim przypadku wyjątek.
