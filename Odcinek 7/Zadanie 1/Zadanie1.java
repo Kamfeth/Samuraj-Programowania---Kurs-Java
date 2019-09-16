@@ -1,4 +1,4 @@
-package Zad1;
+package zad1;
 
 import java.util.Scanner;
 
